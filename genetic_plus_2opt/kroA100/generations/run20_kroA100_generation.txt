@@ -1,0 +1,33 @@
+TSP Instance: kroA100
+
+Total Running Time: 21.64 seconds
+Initial Population's Best Fitness: 156778.47
+Initial Population's Average Fitness: 169330.79
+Generation 0: Best Fitness = 166814.03, Average Fitness = 169330.79, Fitness STD = 5393.36, Avg Euclidean Distance = 405.16
+Generation 1: Best Fitness = 156778.47, Average Fitness = 169330.79, Fitness STD = 5393.36, Avg Euclidean Distance = 405.16
+Generation 2: Best Fitness = 22719.46, Average Fitness = 24152.94, Fitness STD = 752.62, Avg Euclidean Distance = 408.65
+Generation 3: Best Fitness = 22719.46, Average Fitness = 24090.81, Fitness STD = 732.49, Avg Euclidean Distance = 409.97
+Generation 4: Best Fitness = 22673.07, Average Fitness = 24195.44, Fitness STD = 953.52, Avg Euclidean Distance = 409.91
+Generation 5: Best Fitness = 22673.07, Average Fitness = 23951.54, Fitness STD = 915.70, Avg Euclidean Distance = 408.85
+Generation 6: Best Fitness = 22673.07, Average Fitness = 23893.34, Fitness STD = 895.49, Avg Euclidean Distance = 407.51
+Generation 7: Best Fitness = 22673.07, Average Fitness = 23987.15, Fitness STD = 1006.84, Avg Euclidean Distance = 407.11
+Generation 8: Best Fitness = 22673.07, Average Fitness = 24248.91, Fitness STD = 974.90, Avg Euclidean Distance = 398.99
+Generation 9: Best Fitness = 22673.07, Average Fitness = 24685.93, Fitness STD = 855.36, Avg Euclidean Distance = 394.05
+Generation 10: Best Fitness = 22673.07, Average Fitness = 24722.77, Fitness STD = 796.94, Avg Euclidean Distance = 394.22
+Generation 11: Best Fitness = 22673.07, Average Fitness = 24700.93, Fitness STD = 758.80, Avg Euclidean Distance = 402.39
+Generation 12: Best Fitness = 22673.07, Average Fitness = 24523.95, Fitness STD = 772.35, Avg Euclidean Distance = 406.86
+Generation 13: Best Fitness = 22673.07, Average Fitness = 24506.45, Fitness STD = 841.68, Avg Euclidean Distance = 404.77
+Generation 14: Best Fitness = 22673.07, Average Fitness = 24824.84, Fitness STD = 608.39, Avg Euclidean Distance = 397.46
+Generation 15: Best Fitness = 22673.07, Average Fitness = 24780.82, Fitness STD = 711.10, Avg Euclidean Distance = 396.69
+Generation 16: Best Fitness = 22673.07, Average Fitness = 24793.36, Fitness STD = 720.36, Avg Euclidean Distance = 396.94
+Generation 17: Best Fitness = 22673.07, Average Fitness = 24816.35, Fitness STD = 755.06, Avg Euclidean Distance = 406.08
+Generation 18: Best Fitness = 22673.07, Average Fitness = 24927.59, Fitness STD = 612.15, Avg Euclidean Distance = 398.48
+Generation 19: Best Fitness = 22673.07, Average Fitness = 24889.59, Fitness STD = 632.03, Avg Euclidean Distance = 399.43
+Generation 20: Best Fitness = 22673.07, Average Fitness = 24927.34, Fitness STD = 620.10, Avg Euclidean Distance = 400.25
+Generation 21: Best Fitness = 22673.07, Average Fitness = 25029.57, Fitness STD = 456.29, Avg Euclidean Distance = 396.17
+Generation 22: Best Fitness = 22673.07, Average Fitness = 24951.39, Fitness STD = 638.83, Avg Euclidean Distance = 397.08
+Generation 23: Best Fitness = 22673.07, Average Fitness = 25065.29, Fitness STD = 578.76, Avg Euclidean Distance = 403.02
+Generation 24: Best Fitness = 22673.07, Average Fitness = 24814.70, Fitness STD = 730.79, Avg Euclidean Distance = 404.34
+
+Best Route: [84, 10, 79, 53, 4, 65, 26, 66, 70, 22, 16, 88, 94, 18, 24, 38, 99, 36, 72, 21, 74, 59, 17, 15, 11, 32, 45, 91, 98, 23, 77, 60, 62, 35, 86, 27, 20, 12, 55, 83, 34, 68, 85, 39, 30, 29, 46, 43, 3, 14, 71, 41, 100, 48, 52, 78, 96, 5, 37, 33, 76, 13, 95, 82, 50, 73, 44, 2, 54, 40, 64, 69, 81, 25, 9, 7, 57, 87, 51, 61, 58, 67, 28, 93, 47, 1, 92, 8, 42, 89, 31, 80, 56, 97, 75, 19, 90, 49, 6, 63]
+Best Fitness: 22673.07
