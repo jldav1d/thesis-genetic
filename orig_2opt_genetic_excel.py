@@ -69,7 +69,7 @@ def compute_distance_matrix(coords):
 READ:
     MAKE SURE TO RUN THE INTENDED TSP INSTANCES
 """
-coordinates = read_tsp_file(f"../tsp_instances/{TSP_INSTANCE}.tsp")
+coordinates = read_tsp_file(f"tsp_instances/{TSP_INSTANCE}.tsp")
 distance_matrix = compute_distance_matrix(coordinates)
 num_nodes = len(coordinates)
 
